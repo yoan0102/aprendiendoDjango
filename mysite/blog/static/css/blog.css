@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+}
+
+h1 a,
+h2 a {
+  color: rgb(246, 230, 94);
+}
+
+h1 a,
+h2 a :hover {
+  color: #c25100;
+}
